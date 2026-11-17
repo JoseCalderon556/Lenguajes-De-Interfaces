@@ -1,0 +1,3 @@
+LAP-123;Lapiz;750;25
+BOR-234;Borrador;550;30
+PLU-345;Pluma;1500;15
